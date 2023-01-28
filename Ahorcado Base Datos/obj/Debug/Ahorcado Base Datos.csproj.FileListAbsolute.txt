@@ -1,0 +1,119 @@
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\bin\Debug\Ahorcado Base Datos.exe.config
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\bin\Debug\Ahorcado Base Datos.exe
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\bin\Debug\Ahorcado Base Datos.pdb
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\obj\Debug\Ahorcado Base Datos.csproj.AssemblyReference.cache
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\obj\Debug\Ahorcado Base Datos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.Properties.Resources.resources
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\obj\Debug\Ahorcado Base Datos.csproj.GenerateResource.cache
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\obj\Debug\Ahorcado Base Datos.csproj.CoreCompileInputs.cache
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\obj\Debug\Ahorcado Base Datos.exe
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\obj\Debug\Ahorcado Base Datos.pdb
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.Login.resources
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\bin\Debug\CircularProgressBar.dll
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\bin\Debug\WinFormAnimation.dll
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\bin\Debug\CircularProgressBar.xml
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.Juego.resources
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\obj\Debug\Ahorcado Base Datos.csproj.CopyComplete
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\bin\Debug\Reloj.dll
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\bin\Debug\Reloj.pdb
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.NuevoUsuario.resources
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\bin\Debug\MySqlConnector.dll
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\bin\Debug\System.Buffers.dll
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\bin\Debug\System.Memory.dll
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\bin\Debug\MySqlConnector.xml
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\bin\Debug\System.Buffers.xml
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\bin\Debug\System.Memory.xml
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.SeleccionCategoria.resources
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.Administrador.resources
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.Jugadores.resources
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.Categorias.resources
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.VentanaAñadir.resources
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.CambiarContraseña.resources
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.Historial.resources
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\Ahorcado Base Datos.exe.config
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\Ahorcado Base Datos.exe
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\Ahorcado Base Datos.pdb
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\CircularProgressBar.dll
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\MySqlConnector.dll
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\Reloj.dll
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Buffers.dll
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Memory.dll
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\WinFormAnimation.dll
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\CircularProgressBar.xml
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\MySqlConnector.xml
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\Reloj.pdb
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Buffers.xml
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Memory.xml
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado Base Datos.csproj.AssemblyReference.cache
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado Base Datos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.Administrador.resources
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.CambiarContraseña.resources
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.Categorias.resources
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.Historial.resources
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.Juego.resources
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.Jugadores.resources
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.Login.resources
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.NuevoUsuario.resources
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.Properties.Resources.resources
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.SeleccionCategoria.resources
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.VentanaAñadir.resources
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado Base Datos.csproj.GenerateResource.cache
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado Base Datos.csproj.CoreCompileInputs.cache
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado Base Datos.csproj.CopyComplete
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado Base Datos.exe
+C:\Users\Ismael\Desktop\2º Dam\Desarrollo de interfaces\Directorio de interfaces Visual Studio\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado Base Datos.pdb
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\Ahorcado Base Datos.exe.config
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\Ahorcado Base Datos.exe
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\Ahorcado Base Datos.pdb
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\CircularProgressBar.dll
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\MySqlConnector.dll
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Buffers.dll
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Memory.dll
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\WinFormAnimation.dll
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\CircularProgressBar.xml
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\MySqlConnector.xml
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\Reloj.pdb
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Buffers.xml
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Memory.xml
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado Base Datos.csproj.AssemblyReference.cache
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado Base Datos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.Administrador.resources
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.CambiarContraseña.resources
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.Categorias.resources
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.Historial.resources
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.Juego.resources
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.Jugadores.resources
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.Login.resources
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.NuevoUsuario.resources
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.Properties.Resources.resources
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.SeleccionCategoria.resources
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado_Base_Datos.VentanaAñadir.resources
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado Base Datos.csproj.GenerateResource.cache
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado Base Datos.csproj.CoreCompileInputs.cache
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado Base Datos.csproj.CopyComplete
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado Base Datos.exe
+C:\Users\Ismael\Desktop\Ahorcado\Ahorcado\Ahorcado Base Datos - copia\Ahorcado Base Datos\obj\Debug\Ahorcado Base Datos.pdb
